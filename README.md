@@ -1,5 +1,5 @@
 # RejuviFy - Bangkit Capstone Project 2023 ✨
-MOCKUP DESIGN HERE
+<img src='https://drive.google.com/file/d/16AuaFL7WHYtwCFwMOXXzeOT03Bvaf8HE/view'>
 
 ## Smart Skincare Application 💆‍♀️📱 <br>
 Please introduce our application, RejuviFy! Our application offers a range of features including skin detection that can detect all the skin problems on your face, Skincare Recommendation that will recommend the suitable skincare product for you, Skin Check Reminder, and many more. RejuviFy serves as a helpful tool for preventing and face detection of facial skin problems from the detected skin issues will result in product recommendations to address those specific skin problem. RejuviFy also provides recommendations for skincare products that are certified halal and registered with the local health authority and in Indonesia is BPOM. Users can choose safe and suitable products for their skin needs through this application.
