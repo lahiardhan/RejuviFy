@@ -47,6 +47,6 @@ Please introduce our application, RejuviFy! Our application offers a range of fe
 You can check our repositories for each learning path in the tables below. Or you can just directly change the branch in this repository. The `master` branch is for the **Mobile Development** repository, the `backend` branch is for the **Cloud Computing** repository, and the `model` branch is for the **Machine Learning** repository.
 |   Learning Paths   |                                Link                                |
 | :----------------: | :----------------------------------------------------------------: |
-| Mobile Development | [Github](https://github.com/lahiardhan/RejuviFy/tree/master)       |
+| Mobile Development | [Github](https://github.com/lahiardhan/RejuviFy/tree/android)       |
 |  Machine Learning  |  [Github](https://github.com/lahiardhan/RejuviFy/tree/model)       |
 |   Cloud Computing  |   [Github](https://github.com/lahiardhan/RejuviFy/tree/backend)    |
