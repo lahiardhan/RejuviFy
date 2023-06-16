@@ -1,7 +1,7 @@
 # RejuviFy - Bangkit Capstone Project 2023 ✨
 MOCKUP DESIGN HERE
 
-## Smart Skincare Application <br>
+## Smart Skincare Application 💆‍♀️📱 <br>
 Please introduce our application, RejuviFy! Our application offers a range of features including skin detection that can detect all the skin problems on your face, Skincare Recommendation that will recommend the suitable skincare product for you, Skin Check Reminder, and many more. RejuviFy serves as a helpful tool for preventing and face detection of facial skin problems from the detected skin issues will result in product recommendations to address those specific skin problem. RejuviFy also provides recommendations for skincare products that are certified halal and registered with the local health authority and in Indonesia is BPOM. Users can choose safe and suitable products for their skin needs through this application.
 
 ## [Download App Here (.apk file)] 📲( #LINK HERE )
@@ -18,27 +18,35 @@ Please introduce our application, RejuviFy! Our application offers a range of fe
 
 # Technologies used 🔧 
 
-- Machine Learning :
-  1. TensorFlow
-  2. NumPy
-  3. Pandas
-  4. OpenDatasets
-  5. Matplotlib
-  7. Keras
-  8. Scikit-Learn
-  9. PIL Fork
-  10. os
-  11. csv
+- **Machine Learning** :
+  * TensorFlow
+  * NumPy
+  * Pandas
+  * OpenDatasets
+  * Matplotlib
+  * Keras
+  * Scikit-Learn
+  * PIL Fork
+  * os
+  * csv
   
-- Cloud & Backend : 
-  1. Express.js
-  2. Flask
-  3. Cloud Run (GCP)
-  4. Cloud SQL (GCP)
-  5. Cloud Storage (GCP)
+- **Cloud & Backend** : 
+  * Express.js
+  * Flask
+  * Cloud Run (GCP)
+  * Cloud SQL (GCP)
+  * Cloud Storage (GCP)
 
-- Mobile Development :
-  1. Kotlin
-  2. Android Jetpack
-  3. Retrofit
-  4. Koin Dependency Injection 
+- **Mobile Development** :
+  * Kotlin
+  * Android Jetpack
+  * Retrofit
+  * Koin Dependency Injection 
+
+# Repositories 📁
+You can check our repositories for each learning path in the tables below. Or you can just directly change the branch in this repository. The `master` branch is for the **Mobile Development** repository, the `backend` branch is for the **Cloud Computing** repository, and the `model` branch is for the **Machine Learning** repository.
+|   Learning Paths   |                                Link                                |
+| :----------------: | :----------------------------------------------------------------: |
+| Mobile Development | [Github](https://github.com/lahiardhan/RejuviFy/tree/master)       |
+|  Machine Learning  |  [Github](https://github.com/lahiardhan/RejuviFy/tree/model)       |
+|   Cloud Computing  |   [Github](https://github.com/lahiardhan/RejuviFy/tree/backend)    |
