@@ -39,9 +39,10 @@ Please introduce our application, RejuviFy! Our application offers a range of fe
 
 - **Mobile Development** :
   * Kotlin
-  * Android Jetpack
+  * Android XML
   * Retrofit
-  * Koin Dependency Injection 
+  * Androidlocalizationer
+  * Figma
 
 # Repositories 📁
 You can check our repositories for each learning path in the tables below. Or you can just directly change the branch in this repository. The `master` branch is for the **Mobile Development** repository, the `backend` branch is for the **Cloud Computing** repository, and the `model` branch is for the **Machine Learning** repository.
