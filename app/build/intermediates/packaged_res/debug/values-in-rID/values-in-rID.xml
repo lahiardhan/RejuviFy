@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Skintastic">SkinTastic</string>
+    <string name="action_settings" translatable="false">Seting</string>
+    <string name="app_name">RejuviFy</string>
+    <string name="app_settings_title">Seting Judul Aplikasi</string>
+    <string name="create_new_story">Membuat Story Bary</string>
+    <string name="daftar">Daftar</string>
+    <string name="data_not_loaded">Data tidak dimuat</string>
+    <string name="e_mail">E-mail</string>
+    <string name="hello_blank_fragment">Hallo Fragment Kosong</string>
+    <string name="image_detail">detail foto</string>
+    <string name="language_info">Info Bahasa</string>
+    <string name="language_settings">Seting Bahasa</string>
+    <string name="log_out">Keluar</string>
+    <string name="login">Masuk</string>
+    <string name="login_untuk_melanjutkan">Masuk Untuk Melanjutkan</string>
+    <string name="map">peta</string>
+    <string name="message">Mari Temukan Pengguna Populer di Story</string>
+    <string name="more_menu">Menu Lainnya</string>
+    <string name="password">Password</string>
+    <string name="reminder_info">Pengingat</string>
+    <string name="retry">Ulangi</string>
+    <string name="settings_menu_item">Seting</string>
+    <string name="storyDescription">Deskripsi</string>
+    <string name="storyImage">Foto</string>
+    <string name="storyName">nama</string>
+</resources>

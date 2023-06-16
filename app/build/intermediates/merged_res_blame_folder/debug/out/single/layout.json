@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "com.dicoding.submission1.skin.app-mergeDebugResources-66:/layout/card_analysis_loading.xml",
+        "source": "com.dicoding.submission1.skin.app-main-69:/layout/card_analysis_loading.xml"
+    },
+    {
+        "merged": "com.dicoding.submission1.skin.app-mergeDebugResources-66:/layout/fragment_detail_analysis.xml",
+        "source": "com.dicoding.submission1.skin.app-main-69:/layout/fragment_detail_analysis.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-mergeDebugResources-66:\\layout\\activity_auth.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\layout\\activity_auth.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-mergeDebugResources-66:\\layout\\activity_maps.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-mergeDebugResources-66:\\layout\\fragment_detail_analysis.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\layout\\fragment_detail_analysis.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-mergeDebugResources-66:\\layout\\fragment_list_story.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\layout\\fragment_list_story.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-mergeDebugResources-66:\\layout\\fragment_camera.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-mergeDebugResources-66:\\layout\\fragment_create_analysis.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\layout\\fragment_create_analysis.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-mergeDebugResources-66:\\layout\\fragment_splash.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\layout\\fragment_splash.xml"
+    },
+    {
+        "merged": "com.dicoding.submission1.skin.app-mergeDebugResources-66:/layout/card_analysis.xml",
+        "source": "com.dicoding.submission1.skin.app-main-69:/layout/card_analysis.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-mergeDebugResources-66:\\layout\\fragment_login.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-mergeDebugResources-66:\\layout\\card_stories.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\layout\\card_stories.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-mergeDebugResources-66:\\layout\\fragment_list_analysis.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\layout\\fragment_list_analysis.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-mergeDebugResources-66:\\layout\\fragment_detail_story.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\layout\\fragment_detail_story.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-mergeDebugResources-66:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-mergeDebugResources-66:\\layout\\fragment_create_story.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\layout\\fragment_create_story.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-mergeDebugResources-66:\\layout\\fragment_sign_up.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\layout\\fragment_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-mergeDebugResources-66:\\layout\\card_story_loading.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\layout\\card_story_loading.xml"
+    }
+]

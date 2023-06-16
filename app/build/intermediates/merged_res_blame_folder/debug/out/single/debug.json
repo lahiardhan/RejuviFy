@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\drawable-v24_ic_switch_camera.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\drawable-v24\\ic_switch_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\layout_fragment_list_story.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\layout\\fragment_list_story.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\drawable-v24_back1.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\drawable-v24\\back1.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\drawable-v24_card.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\drawable-v24\\card.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\drawable-v24_ic_baseline_more_vert.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\drawable-v24\\ic_baseline_more_vert.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\layout_fragment_detail_analysis.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\layout\\fragment_detail_analysis.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\layout_activity_auth.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\layout\\activity_auth.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\layout_fragment_detail_story.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\layout\\fragment_detail_story.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\anim_slide_in_left.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\drawable_ic_translate.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\drawable\\ic_translate.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\layout_fragment_camera.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\drawable-v24_ic_error.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\drawable-v24\\ic_error.xml"
+    },
+    {
+        "merged": "com.dicoding.submission1.skin.app-merged_res-67:/layout_fragment_detail_analysis.xml.flat",
+        "source": "com.dicoding.submission1.skin.app-main-69:/layout/fragment_detail_analysis.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\layout_fragment_create_story.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\layout\\fragment_create_story.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\drawable-v24_ic_logout.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\drawable-v24\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\navigation_auth_nav_graph.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\navigation\\auth_nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\layout_fragment_sign_up.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\layout\\fragment_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\drawable-v24_back.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\drawable-v24\\back.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\layout_fragment_list_analysis.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\layout\\fragment_list_analysis.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\drawable-v24_login.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\drawable-v24\\login.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-pngs-62:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\navigation_main_nav_graph.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\navigation\\main_nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\drawable-v24_logo.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\drawable-v24\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\layout_fragment_create_analysis.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\layout\\fragment_create_analysis.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\layout_card_stories.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\layout\\card_stories.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\drawable_splash.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\drawable\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\drawable-v24_splash.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\drawable-v24\\splash.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\drawable-v24_ic_baseline_map_24.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\drawable-v24\\ic_baseline_map_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\drawable-v24_sign.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\drawable-v24\\sign.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\layout_fragment_splash.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\layout\\fragment_splash.xml"
+    },
+    {
+        "merged": "com.dicoding.submission1.skin.app-merged_res-67:/layout_card_analysis.xml.flat",
+        "source": "com.dicoding.submission1.skin.app-main-69:/layout/card_analysis.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\drawable-v24_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\drawable-v24\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\drawable-v24_ic_capture.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\drawable-v24\\ic_capture.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.dicoding.submission1.skin.app-merged_res-67:/layout_card_analysis_loading.xml.flat",
+        "source": "com.dicoding.submission1.skin.app-main-69:/layout/card_analysis_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\drawable_ic_notifications.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\drawable\\ic_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\drawable-v24_logoapp.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\drawable-v24\\logoapp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\layout_card_story_loading.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\layout\\card_story_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-merged_res-67:\\layout_activity_maps.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.dicoding.submission1.skin.app-main-69:\\layout\\activity_maps.xml"
+    }
+]
